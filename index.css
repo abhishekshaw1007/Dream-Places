@@ -4,12 +4,21 @@ body {
   border: 3px solid whitesmoke;
   margin: 30px;
 }
+
+#images {
+  margin: auto;
+  position: relative;
+}
 .bodytext1 {
   color: cyan;
   text-indent: 10px;
 }
 .bodytext2 {
   color: yellow;
+  text-indent: 10px;
+}
+.bodytext3 {
+  color: red;
   text-indent: 10px;
 }
 .myheading {
